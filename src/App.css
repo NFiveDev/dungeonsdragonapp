@@ -1,7 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
 .app-root {
   height: 100vh;
   width: 100vw;
   padding: 0;
   margin: 0;
-  background-image: url('');
+}
+
+.app-background img {
+  height: 100vh;
+  width: 100vw;
+  filter: brightness(50%);
+  object-fit: fill;
+}
+
+.app-container {
+  
 }
