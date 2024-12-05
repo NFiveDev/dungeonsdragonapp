@@ -1,3 +1,3 @@
-export function Section() {
-    return <section></section>;
+export function Section({ props, children }) {
+    return <section>{children}</section>;
 }
