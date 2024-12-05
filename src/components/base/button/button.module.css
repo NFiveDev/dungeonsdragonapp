@@ -1,0 +1,20 @@
+
+
+
+
+/* SIZES */
+
+.large {
+    padding-left: 4px;
+    padding-right: 4px;
+    min-height: 3rem;
+}
+
+/* COLORS */
+
+.burning {
+    background-color: red;
+    color: white;
+}
+
+/* VARIANTS */

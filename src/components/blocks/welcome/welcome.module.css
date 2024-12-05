@@ -1,5 +1,6 @@
 .wrapper {
     padding-top: 12rem;
+    text-align: center;
 }
 
 .burning_text {
@@ -11,8 +12,16 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 40px;
+    font-family: EpicFont;
+}
+
+.burning_text h1 {
+    margin-bottom: 0;
 }
 
 .sub_heading {
-    
+    color: #cbd5e1;
+    font-size: 15px;
+    margin-top: 0.2rem;
+    font-family: EpicFont;
 }
