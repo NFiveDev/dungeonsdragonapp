@@ -13,7 +13,6 @@ const getVariant = (variant) => {
 };
 
 export function Button({ children, variant, size }) {
-    debugger;
     const sizeCls = getSize(size);
 
     const variantCls = getVariant(variant);
